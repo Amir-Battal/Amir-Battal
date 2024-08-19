@@ -12,9 +12,9 @@
 ### :man_technologist: &nbsp;About Me :
 
 - 👋 Hi, I’m @Amir-Battal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Professional in .NET and React JS
-- 🔥 I am currently training a Full Stack project using .NET and React JS
+- 👀 I’m interested in Programming
+- 🌱 I’m currently Professional in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🔥 I am currently training a Full Stack project using MERN-stack
 - 💞️ I’m looking to collaborate on Open Source with another projects and try to improve it
 - 📫 Reach me from my Linkedin account [![Linkedin Badge](https://img.shields.io/badge/-AmirBattal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-battal)	 
 

@@ -1,10 +1,15 @@
 
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/amir-battal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Amir-Battal&style=flat-square&color=blue" alt=""></p>
+<div align="center">
+  
+  <img align="center" width="200" alt="أ" src="https://github.com/user-attachments/assets/c3c49a4c-d0ca-41b7-bb2d-3f7485b86522" />
+</div>
+
+<div align="center">
+  AMIR BATTAL
+</div>
+
+
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -57,6 +62,7 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-Battal&theme=dark&background=000000)](https://git.io/streak-stats)
 
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=Amir-Battal&style=flat-square&color=blue" alt=""></p>
   
 </div>
 

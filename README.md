@@ -8,14 +8,18 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<h3 align="center">A creative software engineer turns complex ideas into elegant, scalable solutions, focusing on quality, innovation, and user experience.</h3>
 
 ### :man_technologist: &nbsp;About Me :
 
-- 👋 Hi, I’m @Amir-Battal
-- 👀 I’m interested in Programming
-- 🌱 I’m currently Professional in MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 💞️ I’m looking to collaborate on Open Source with another projects and try to improve it
-- 📫 Reach me from my Linkedin account [![Linkedin Badge](https://img.shields.io/badge/-AmirBattal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-battal)	 
+- 👋 I’m @Amir-Battal
+- 👀 I’m interested in **Creative Coding**
+- 🔭 I’m currently working on [ATHAR (Impact) project](https://github.com/yamen-taleb/impact)
+- 🌱 I’m currently professional in **Creative Coding**
+- 🤝 I’m looking to collaborate on **Open Source with another projects and try to improve it**
+- 👨‍💻 All of my projects are available at [amirbattal.com](amirbattal.com)
+- 💬 Ask me about **react, gsap, animation**
+- 📫 How to reach me **contact@amirbattal.com**
 
 ---
 
